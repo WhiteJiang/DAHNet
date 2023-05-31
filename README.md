@@ -1,1 +1,2 @@
-# DAHNet
+# Global Meets Local: Dual Activation Hashing Network for Fine-Grained Image Retrieval(DAHNet)
+This is the official PyTorch Implementation of "Global Meets Local: Dual Activation Hashing Network for Fine-Grained Image Retrieval"
